@@ -1,10 +1,10 @@
 # TECHSTRAVER-_DATA_SCIENCE_WEEK3
 
 Technologies:
-o Python: Primary language for data analysis and visualization. 
-o Pandas: For data manipulation tasks like cleaning, merging, and aggregating data. 
-o NumPy: For numerical operations and efficient computation. 
-o Matplotlib/Seaborn: For creating a variety of visualizations to help understand the data better.
+    o Python: Primary language for data analysis and visualization. 
+    o Pandas: For data manipulation tasks like cleaning, merging, and aggregating data. 
+    o NumPy: For numerical operations and efficient computation. 
+    o Matplotlib/Seaborn: For creating a variety of visualizations to help understand the data better.
 
 Steps: 
 1. Import Libraries and Load Data 
